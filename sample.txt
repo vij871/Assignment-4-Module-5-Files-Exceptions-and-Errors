@@ -1,0 +1,12 @@
+exists:
+
+File contents:
+This is line 1
+This is line 2
+This is line 3
+
+----
+
+does not exist:
+
+Error: The file 'sample.txt' does not exist.
